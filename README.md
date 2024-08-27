@@ -3,7 +3,7 @@
 Pandas projects ipl visualization of maplotlib.
 
 Data Project  IPL Players data science project where I analysed IPL 
-(Indian Premier League) data!
+(Indian Premier League) data.
 
 I analysed into the data set of IPL matches, 
 exploring player performance, team salary dynamics. 
